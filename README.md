@@ -15,8 +15,7 @@ We successfully implemented an IOT based smart parking system. With the help of 
 1. Access information about each parking slots via the internet
 2. Live availability information will help find parking spots faster
 3. Autonomous billing will further ease the process
-
-[GIF]
+![Smart_Parking_Animation](https://user-images.githubusercontent.com/44245211/137807075-4dfd8344-ccb8-44c4-b193-13e0ad95598d.gif)
 
 ## Hardware Requirements
 
@@ -48,6 +47,7 @@ BASIC KNOWLEDGE OF PYTHON & LINUX ENVIRONMENT REQUIRED
 3. Alter 'READ.py' appropriately by following comments.
 
 ## Flowchart
+<img width="854" alt="Flowchart" src="https://user-images.githubusercontent.com/44245211/137807036-7b81c8da-a8e8-43af-8a0a-9f7ef5009a0f.png">
 
 ## Project Video
 
