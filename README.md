@@ -52,7 +52,8 @@ BASIC KNOWLEDGE OF PYTHON & LINUX ENVIRONMENT REQUIRED
 
 ## Project Video
 
-[LINK]
+[![Smart_Parking](<img width="864" alt="Smart_Parking" src="https://user-images.githubusercontent.com/44245211/137807900-349c72b9-2343-4391-a543-7fd003c27ea6.png">
+)](https://www.youtube.com/watch?v=kOxa8OaKw0c)
 
 ## # Directory Structure
 - ```src``` folder contains the source code. 
