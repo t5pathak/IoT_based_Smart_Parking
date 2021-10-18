@@ -15,6 +15,7 @@ We successfully implemented an IOT based smart parking system. With the help of 
 1. Access information about each parking slots via the internet
 2. Live availability information will help find parking spots faster
 3. Autonomous billing will further ease the process
+
 ![Smart_Parking_Animation](https://user-images.githubusercontent.com/44245211/137807075-4dfd8344-ccb8-44c4-b193-13e0ad95598d.gif)
 
 ## Hardware Requirements
