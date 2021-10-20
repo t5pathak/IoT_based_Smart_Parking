@@ -48,7 +48,7 @@ BASIC KNOWLEDGE OF PYTHON & LINUX ENVIRONMENT REQUIRED
 3. Alter 'READ.py' appropriately by following comments.
 
 ## Flowchart
-<img width="854" alt="Flowchart" src="https://user-images.githubusercontent.com/44245211/137807036-7b81c8da-a8e8-43af-8a0a-9f7ef5009a0f.png">
+<img width="936" alt="Pipeline" src="https://user-images.githubusercontent.com/44245211/138045898-c5808320-7256-41aa-ac27-c374bcab9314.png">
 
 ## Project Video
 
