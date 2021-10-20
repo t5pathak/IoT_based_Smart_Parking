@@ -4,13 +4,13 @@
 
 We successfully implemented an IOT based smart parking system. With the help of individual nodes (proximity sensors) at every parking slot, we can reflect live parking slot status – ‘Available’ or ‘Occupied’ - on the internet.
 
-### ISSUES WITH CURRENT SYSTEM
+### Issues with Current System
 
 1. Parking counters don’t exactly specify where slots are available
 2. Light Indicators don’t fully resolve the problem
 3. Absence of autonomous billing
 
-## PROPOSED SYSTEM
+## Proposed System
 
 1. Access information about each parking slots via the internet
 2. Live availability information will help find parking spots faster
